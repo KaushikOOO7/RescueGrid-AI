@@ -1,0 +1,7 @@
+{
+  "notice": "Synthetic demonstration coverage cells only. These do not represent live monitoring or real communities.",
+  "cells": [
+    {"area_name": "Northglass Plateau (synthetic cell)", "hazard_exposure": "high", "connectivity_limited": true, "access_limited": true},
+    {"area_name": "East Ember Cell (synthetic cell)", "hazard_exposure": "medium", "connectivity_limited": false, "access_limited": false}
+  ]
+}
